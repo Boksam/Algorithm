@@ -12,8 +12,8 @@ int main() {
     for (auto c : notation) {
         if (isalpha(c) != 0) {
             result += c;
-        } 
-        else {         
+        }
+        else {
             if (c == '(') {
                 s.push(c);
             }
