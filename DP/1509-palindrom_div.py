@@ -1,4 +1,4 @@
-# abadf
+
 INF = 1e9
 
 def CheckPalin(is_palin):
@@ -13,7 +13,7 @@ def CheckPalin(is_palin):
             if s[i] == s[e] and is_palin[i+1][e-1]:
                 is_palin[i][e] = True
 
-
+# ABCDE
 def Solve(dp):
     for end in range(n):
         for start in range(end+1):

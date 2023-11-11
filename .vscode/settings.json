@@ -1,5 +1,10 @@
 {
-    "files.associations": {
-        "queue": "cpp"
-    }
+  "files.associations": {
+    "*.html": "php",
+    "queue": "cpp",
+    "ostream": "cpp",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "__bit_reference": "cpp"
+  }
 }
