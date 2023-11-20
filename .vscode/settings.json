@@ -1,10 +1,13 @@
 {
   "files.associations": {
     "*.html": "php",
+    "*.css": "css",
     "queue": "cpp",
     "ostream": "cpp",
     "vector": "cpp",
     "iostream": "cpp",
-    "__bit_reference": "cpp"
+    "__bit_reference": "cpp",
+    "__tree": "cpp",
+    "string": "cpp"
   }
 }
