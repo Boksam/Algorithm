@@ -8,6 +8,8 @@
     "iostream": "cpp",
     "__bit_reference": "cpp",
     "__tree": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "deque": "cpp",
+    "ios": "cpp"
   }
 }
